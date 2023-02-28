@@ -1,0 +1,281 @@
+body
+{
+    margin: 0;
+    background-color:black;
+}
+.background
+{
+    
+   
+   
+    height: 40%;
+    background-repeat: no-repeat;
+    padding-left: 10%;
+    background-size: cover;    
+}
+.image
+{
+    
+    background-size: cover;
+}
+.background img
+{
+    padding-top: 6%;
+}
+.background p
+{
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    float: right;
+    padding-top: 6%;
+    padding-right: 10%;
+    font-size: 15px;
+}
+
+nav
+{
+   
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.nav_bar ul{
+    list-style-type: none;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    padding:0;
+    margin: 0;
+    text-decoration: none;
+  
+}
+.nav_bar ul li
+{
+    float: right;
+}
+.nav_bar ul li a
+{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+ 
+}
+li a:hover{
+    background-color: red;
+}
+span
+{
+    color: red;
+}
+.name
+{
+    padding-top: 3%;
+    padding-left: 9%;
+}
+.name h1
+{
+   color: white;
+   font-family: 'Poppins', sans-serif;
+   padding-left: 35%;
+   
+}
+.name img{
+    padding-left: 20%;
+}
+.left
+{
+    width: 30%;
+    padding-left: 8%;
+    float: left;
+}
+.LEFT img
+{
+    padding-left: 0;
+}
+.portfolio
+{
+    padding-left: 2%;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    
+    
+}
+.projects
+{
+    margin-top: 6%;
+}
+.name h3
+{
+  
+    padding-left: 35%;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+.projects h1
+{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+
+.projects p
+{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+.projects img
+{
+    padding-left: 15%;
+    padding-top: 7%;
+}
+.projects hr
+{
+    width: 15%;
+}
+
+.projects_details h1
+{
+    font-family: 'Poppins', sans-serif;
+    
+    font-size: 23px;
+    color: white;
+}
+.projects_details h2
+{
+    font-family: 'Poppins', sans-serif;
+    
+    font-size: 20px;
+    color: white;
+}
+.name h2{
+    font-family: 'Poppins', sans-serif;
+    
+    font-size: 18px;
+    color: white;
+    padding-bottom: 5%;
+}
+.About
+{
+    font-family: 'Poppins', sans-serif;
+    
+    font-size: 13px;
+    color: white;
+   
+    padding-top: 5%;
+}
+.About h1
+{
+    text-align: center;
+}
+.About h2
+{
+   
+   padding-left: 15%;
+}
+.About hr
+{
+    width: 12%;
+    
+   
+}
+.vertical_left
+{
+    border-left: 6px solid red;
+    max-height: 320%;
+}
+.vertical_right
+{
+    border-right: 6px solid red;
+    max-height: 320%;
+}
+.skills
+{
+    font-family: 'Poppins', sans-serif;
+    
+    font-size: 13px;
+    color: white;
+   
+    padding-top: 4%;
+}
+.skills h1
+{
+    text-align: center;
+}
+.skills hr
+{
+    
+    width: 12%;
+    
+}
+.skills h2
+{
+  padding-left: 15%;  
+}
+.skills p
+{
+    padding-left: 16%;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+}
+/* .box
+{
+    margin-left: 20%;
+    border-radius: 20px;
+    background-color: white;
+    margin-right: 20%;
+} */
+.c, .cpp, .html, .css, .python, .js
+{
+    text-align: center;
+    font-weight: bolder;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 20px;
+    color: white;
+}
+.c
+{
+    
+    background-color:dodgerblue;
+    margin-left: 16%;
+    margin-right: 20%;
+}
+.cpp
+{
+    margin-left: 16%;
+    margin-right: 20%;
+    background-color:deeppink;
+}
+.html
+{
+    margin-left: 16%;
+    margin-right: 20%;
+    background-color: purple;
+}
+.css
+{
+    margin-left: 16%;
+    margin-right: 30%;
+    background-color: red;
+}
+.python
+{
+    margin-left: 16%;
+    margin-right: 40%;
+    background-color:gold;
+}
+.js
+{
+    margin-left: 16%;
+    margin-right: 60%;
+    background-color: lime;
+}
+
+
+
+
+
